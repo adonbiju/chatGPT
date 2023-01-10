@@ -61,5 +61,5 @@ Start the server
 
 ## Demo Video
   <h1 align="center">
-  <img alt="Demo Video" src="Demo/chatgpt.gif"  />
+  <img alt="Demo Video" src="Demo/Demo.gif"  />
 </h1>
